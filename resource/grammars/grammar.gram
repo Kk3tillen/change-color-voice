@@ -1,0 +1,6 @@
+#JSGF V1.0;
+
+grammar grammar;
+
+public <commands> = ( change color to blue | change color to red | change color to green | close );                   
+ 
